@@ -1,0 +1,12 @@
+#Core
+fastapi
+uvicorn
+gunicorn
+
+#Validation and Serialization
+pydantic[email]>=2.5.2
+
+#Testing
+pytest>=7.4.3
+pytest-asyncio>=0.23.0
+httpx>=0.22.0 
