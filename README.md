@@ -42,9 +42,9 @@ Here, -d runs the container in detached mode (in the background), --name assigns
 
 ##### Access the Application
 
-Visit [localhost:8000](localhost:8000) in your web browser to access the FastAPI application.
+Visit [localhost:8000](http://localhost:8000) in your web browser to access the FastAPI application.
 
-You can also view the SwaggerUI generated docs at [localhost:8000/docs](localhost:8000/docs).
+You can also view the SwaggerUI generated docs at [localhost:8000/docs](http://localhost:8000/docs).
 
 #### Using Docker Compose
 
