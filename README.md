@@ -6,23 +6,16 @@ This project is a basic skeleton for building microservices using FastAPI, desig
 
 Here's an overview of the project structure:
 
-```
-/app: Contains the FastAPI application code.
-__init__.py: Allows Python to recognize the directory as a package.
-main.py: The entry point to the FastAPI app, defining routes and logic.
-
-/tests: Houses test suites for the application.
-__init__.py: Allows Python to recognize the directory as a package.
-test_main.py: Contains test cases for the app functionality.
-
-Dockerfile: Instructions for Docker to build the application image.
-
-docker-compose.yml: Defines and runs multi-container Docker applications.
-
-requirements.txt: Lists the Python dependencies needed for the app.
-
-README.md: Provides documentation for the project (this file).
-```
+- `/app`: Contains the FastAPI application code.
+  - `__init__.py`: Allows Python to recognize the directory as a package.
+  - `main.py`: The entry point to the FastAPI app, defining routes and logic.
+- `/tests`: Houses test suites for the application.
+  - `__init__.py`: Allows Python to recognize the directory as a package.
+  - `test_main.py`: Contains test cases for the app functionality.
+- `Dockerfile`: Instructions for Docker to build the application image.
+- `docker-compose.yml`: Defines and runs multi-container Docker applications.
+- `requirements.txt`: Lists the Python dependencies needed for the app.
+- `README.md`: Provides documentation for the project (this file).
 
 #### Getting Started
 
