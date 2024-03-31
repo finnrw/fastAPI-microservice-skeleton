@@ -2,7 +2,7 @@
 
 This project is a basic skeleton for building microservices using FastAPI, designed to run in Docker containers. It's optimized for production environments with a focus on asynchronous functions for efficient I/O operations.
 
-#### Project Structure
+### Project Structure
 
 Here's an overview of the project structure:
 
