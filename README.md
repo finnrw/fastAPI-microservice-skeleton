@@ -23,6 +23,10 @@ To run this project, you'll need Docker installed on your system. If you're new 
 
 ### Building and Running with Docker
 
+#### Environment Variables
+
+Edit your local environment variables in the `.env` file under `/app`
+
 #### Build the Docker Image
 
 _Note: Replace `fastapi-microservice` with the name of your service._
