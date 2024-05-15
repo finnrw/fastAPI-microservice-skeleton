@@ -25,7 +25,7 @@ To run this project, you'll need Docker installed on your system. If you're new 
 
 #### Environment Variables
 
-Edit your local environment variables in the `.env` file under `/app`
+Add local environment variables in a `.env` file under `/app`
 
 #### Build the Docker Image
 
